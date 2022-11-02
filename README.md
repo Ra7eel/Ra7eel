@@ -1,4 +1,4 @@
-- 👋 Hi! I’m Raheel, a computer science graduate with a huge passion for coding, web development, bots and women empowerment.
+- 👋 Hi! I’m Raheel, a computer science graduate with a huge passion for coding and women empowerment.
 - 👀 I’m interested in React.js, Web Development, System Analysis, Python, Gaming..
 - 🌱 I’m currently working as an Associate System Engineer for Saudi Customs (ZATCA).
 - 💞️ raheelazahem@gmail.com, [linkedin](linkedin.com/in/raheelazahem), [twitter](https://twitter.com/raheelazahem).
